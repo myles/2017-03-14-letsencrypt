@@ -265,3 +265,15 @@ autoscale: true
 ---
 
 # [fit] Questions?
+
+---
+
+# References
+
+*   <https://github.com/alex/what-happens-when#tls-handshake>
+*   <https://www.slideshare.net/NancyThanki/lets-encrypt-wait-why-how-wc-pune>
+*   <https://www.slideshare.net/cortinico/lets-encrypt-free-certificates-for-everyone>
+
+# Images
+
+*   <https://unsplash.com/collections/594884/lets-encrypt-presentation>
