@@ -264,6 +264,15 @@ autoscale: true
 
 ---
 
+![](media/ssl-issuer-popularity.png)
+
+# [fit] Quarter of Websites are
+# [fit] Using Let's Encrypt
+
+^ You are in good company as 24.19% of the Internet are using Let's Encrypt certificates.
+
+---
+
 # [fit] Questions?
 
 ---
