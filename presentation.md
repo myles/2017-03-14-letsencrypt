@@ -1,10 +1,6 @@
 autoscale: true
 
-# [fit] Let's Encrypt
-
-# [fit] All the Things
-
-![](media/ben-garratt-134770.jpg)
+![](media/lets-encrypt-all-the-things.png)
 
 ---
 
@@ -14,7 +10,7 @@ autoscale: true
 
 ^ So you can get a nice green pad lock on your website free of change without any human interaction.
 
-^ This presentation will be covering HTTP over SSL, though Let's Encrypt allows for certificates using any protocol.
+^ This presentation will be covering HTTP over SSL, though Let's Encrypt allows for certificates using most protocols.
 
 ---
 
